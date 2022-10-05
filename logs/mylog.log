@@ -1,0 +1,41 @@
+[INFO ] 2022-10-05 12:06:01.253 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 12:06:01.413 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 12:06:09.104 [main] MyStoreV1 - veryfyaddtowishlistwithoutlogin is passed
+[INFO ] 2022-10-05 12:06:25.172 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 12:06:25.177 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 12:06:30.500 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2022-10-05 12:06:31.140 [main] MyStoreV1 - email address is entered
+[INFO ] 2022-10-05 12:06:31.440 [main] MyStoreV1 - password is entered
+[INFO ] 2022-10-05 12:06:34.927 [main] MyStoreV1 - clicked on signin button
+[INFO ] 2022-10-05 12:07:18.448 [main] MyStoreV1 - signout clicked
+[INFO ] 2022-10-05 12:07:18.507 [main] MyStoreV1 - signout passed
+[INFO ] 2022-10-05 12:17:39.032 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 12:17:39.070 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 12:17:43.934 [main] MyStoreV1 - veryfyaddtowishlistwithoutlogin is passed
+[INFO ] 2022-10-05 12:17:55.274 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 12:17:55.277 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 12:17:58.847 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2022-10-05 12:17:59.141 [main] MyStoreV1 - email address is entered
+[INFO ] 2022-10-05 12:17:59.383 [main] MyStoreV1 - password is entered
+[INFO ] 2022-10-05 12:18:02.537 [main] MyStoreV1 - clicked on signin button
+[INFO ] 2022-10-05 12:18:05.796 [main] MyStoreV1 - signout clicked
+[INFO ] 2022-10-05 12:18:05.813 [main] MyStoreV1 - signout passed
+[INFO ] 2022-10-05 18:37:57.457 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 18:37:57.505 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 18:45:22.695 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 18:45:22.698 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 18:46:20.705 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2022-10-05 18:46:21.045 [main] MyStoreV1 - email address is entered
+[INFO ] 2022-10-05 18:46:21.278 [main] MyStoreV1 - password is entered
+[INFO ] 2022-10-05 18:46:45.411 [main] MyStoreV1 - clicked on signin button
+[INFO ] 2022-10-05 19:03:01.126 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 19:03:01.160 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 19:03:36.292 [main] MyStoreV1 - veryfyaddtowishlistwithoutlogin is passed
+[INFO ] 2022-10-05 19:03:58.487 [main] MyStoreV1 - url opened
+[INFO ] 2022-10-05 19:03:58.491 [main] MyStoreV1 - Search product test case execution started
+[INFO ] 2022-10-05 19:04:18.396 [main] MyStoreV1 - clicked on sign in link
+[INFO ] 2022-10-05 19:04:18.716 [main] MyStoreV1 - email address is entered
+[INFO ] 2022-10-05 19:04:19.015 [main] MyStoreV1 - password is entered
+[INFO ] 2022-10-05 19:04:38.850 [main] MyStoreV1 - clicked on signin button
+[INFO ] 2022-10-05 19:04:56.979 [main] MyStoreV1 - signout clicked
+[INFO ] 2022-10-05 19:04:56.996 [main] MyStoreV1 - signout passed

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-05T12:05:33 IST" name="Suite" finished-at="2022-10-05T12:07:19 IST" duration-ms="106051">
+    <groups>
+    </groups>
+    <test started-at="2022-10-05T12:05:33 IST" name="Test" finished-at="2022-10-05T12:07:19 IST" duration-ms="106051">
+      <class name="com.mystore.testcases.TC_productpageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.mystore.testcases.TC_productpageTest@59662a0b]" started-at="2022-10-05T12:05:34 IST" name="setup" finished-at="2022-10-05T12:06:01 IST" duration-ms="26955" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="veryfyaddtowishlistwithoutlogin()[pri:0, instance:com.mystore.testcases.TC_productpageTest@59662a0b]" started-at="2022-10-05T12:06:01 IST" name="veryfyaddtowishlistwithoutlogin" finished-at="2022-10-05T12:06:09 IST" duration-ms="7815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryfyaddtowishlistwithoutlogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_productpageTest@59662a0b]" started-at="2022-10-05T12:06:09 IST" name="tearDown" finished-at="2022-10-05T12:06:12 IST" duration-ms="2848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_productpageTest -->
+      <class name="com.mystore.testcases.TC_MyAccountPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@1bd4fdd]" started-at="2022-10-05T12:06:12 IST" name="setup" finished-at="2022-10-05T12:06:25 IST" duration-ms="12915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signout()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@1bd4fdd]" started-at="2022-10-05T12:06:25 IST" name="signout" finished-at="2022-10-05T12:07:18 IST" duration-ms="53334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@1bd4fdd]" started-at="2022-10-05T12:07:18 IST" name="tearDown" finished-at="2022-10-05T12:07:19 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_MyAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
